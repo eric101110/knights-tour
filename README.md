@@ -1,6 +1,6 @@
 # knights-tour
 My go at the knight's tour puzzle where I solve it with backtrack recursion in java.<br>
-The start point and size(Has to be square) can be modified.
+The start point and size(has to be square) can be modified.
 
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/c/ca/Knights-Tour-Animation.gif)
 
