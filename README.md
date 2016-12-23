@@ -1,5 +1,5 @@
 # knights-tour
-My go at the knight's tour puzzle where I solve it with backtrack recursion in java.<br>
+My go at the knight's tour puzzle where I solve it with backtrack recursion in Java.<br>
 The start point and size(has to be square) can be modified.
 
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/c/ca/Knights-Tour-Animation.gif)
