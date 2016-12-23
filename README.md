@@ -4,7 +4,7 @@ The start point and size(has to be square) can be modified.
 
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/c/ca/Knights-Tour-Animation.gif)
 
-8x8 Solution which was the furthest combination it has run for me.
+The 8x8 solution which was the furthest combination it has run for me.
 ```
 1    38   59   36   43   48   57   52   
 60   35   2    49   58   51   44   47   
